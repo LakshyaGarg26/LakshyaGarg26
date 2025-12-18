@@ -15,6 +15,6 @@ I’m Lakshya Garg, a full-stack developer working in Web3, focused on building 
 ---
 [![](https://visitcount.itsvg.in/api?id=LakshyaGarg26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshyaGarg26&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
+<!-- ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshyaGarg26&include_all_commits=true&count_private=true&show_icons=true&theme=dark) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
