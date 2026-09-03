@@ -1,48 +1,45 @@
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Lakshya
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-**<h3 align="left">Connect with me:</h3>**
-<p align="left"><a href="https://www.linkedin.com/in/lakshya-garg-831384247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://x.com/Lakshya_Garg26" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:garglakshya2063@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **🧺 <a href="https://cesto.co" target="_blank">Cesto</a> — non-custodial basket investing on Solana**
-- 🚀 Previously shipped: **BlockScratch, Hold & Scratch Games on Celo / Opera MiniPay**
-- 🧑‍💻 I work across: **Next.js frontends, NestJS & FastAPI backends, and on-chain Solana execution**
-- 💬 Ask me about: **💡 Solana, TypeScript, Next.js, NestJS, Postgres, DeFi protocol integrations**
-- ⚡ Fun fact: **🐛 I once caught a bug that was broadcasting "dry-run" trades for real money**
-- 📂 Product: **<a href="https://app.cesto.co" target="_blank">🌎 app.cesto.co</a>**
-
-**<h3 align="center">Skills</h3>**
-
-<p align="center"><img src="https://skillicons.dev/icons?i=ts" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=js" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=python" height="28" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=solidity" height="28" alt="Solidity" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=solana" height="28" alt="Solana" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="28" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nextjs" height="28" alt="Next.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tailwind" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nestjs" height="28" alt="NestJS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=fastapi" height="28" alt="FastAPI" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postgres" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=redis" height="28" alt="Redis" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=prisma" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=docker" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vercel" height="28" alt="Vercel" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=githubactions" height="28" alt="GitHub Actions" style="margin-right: 4px"></p>
-
-**<h3 align="left">Live from Cesto</h3>**
-
-<!-- CESTO:START -->
-| Basket | 30d | 7d |
-| :--- | ---: | ---: |
-| [Solana Maxi Portfolio](https://app.cesto.co/product/solana-maxi-portfolio) | +38.69% | -3.54% |
-| [Ansem Alpha](https://app.cesto.co/product/ansem-alpha) | +38.54% | -7.35% |
-| [Solana Infrastructure](https://app.cesto.co/product/solana-infrastructure) | +24.61% | -2.99% |
-| [Sovereign Stack](https://app.cesto.co/product/sovereign-stack) | +22.91% | -12.28% |
-| [Solana Alt Szn](https://app.cesto.co/product/solana-alt-szn) | +12.63% | -5.57% |
-
-<sub>Top baskets by 30-day return, pulled live from the Cesto API. Last updated 2026-09-03.</sub>
-<!-- CESTO:END -->
-
-<sub>This table isn't a screenshot — a <a href="https://github.com/LakshyaGarg26/LakshyaGarg26/blob/main/.github/workflows/update-readme.yml">GitHub Action</a> rebuilds it every morning from Cesto's public API.</sub>
-
-**<h3 align="left">GitHub Stats</h3>**
+<h1 align="left">Hey, I'm Lakshya 👋</h1>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LakshyaGarg26&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=LakshyaGarg26&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+I build things that move real money on-chain — mostly full-stack, mostly Solana.
+</p>
+
+<h3 align="left">Find me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lakshya-garg-831384247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4%3D" height="22" alt="LinkedIn"></a>
+  <a href="https://x.com/Lakshya_Garg26" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="22" alt="X"></a>
+  <a href="mailto:garglakshya2063@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="22" alt="Email"></a>
+  <a href="https://cesto.co" target="_blank"><img src="https://img.shields.io/badge/Cesto-14F195?style=flat&logo=solana&logoColor=black" height="22" alt="Cesto"></a>
+</p>
+
+<h3 align="left">The short version</h3>
+
+- 🧺 &nbsp; Building **<a href="https://cesto.co" target="_blank">Cesto</a>** — non-custodial basket investing on Solana, one click into your own wallet
+- 🚀 &nbsp; Shipped **BlockScratch**, **Hold** and **Scratch Games** on Celo, inside Opera MiniPay
+- 🧑‍💻 &nbsp; Day to day: Next.js frontends, NestJS and FastAPI services, and on-chain Solana execution
+- 🔌 &nbsp; Wired up perps, swaps and prediction markets across a pile of DeFi protocols
+- 🐛 &nbsp; Proudest catch: a bug quietly broadcasting "dry-run" trades with real money
+- 💬 &nbsp; Ping me about Solana, TypeScript, Next.js, Postgres or anything DeFi-adjacent
+
+<h3 align="left">Stack</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python">
+  <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="Solidity">
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="NestJS">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="FastAPI">
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis">
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="Prisma">
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker">
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel">
+  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="GitHub Actions">
+  <img src="https://cdn.simpleicons.org/solana/9945FF" height="30" alt="Solana">
 </p>
