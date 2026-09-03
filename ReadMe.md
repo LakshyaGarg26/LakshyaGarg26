@@ -6,9 +6,9 @@ Before that, two and a half years as primary author on **BlockScratch**, a rewar
 
 ### 🧺 Work
 
-- **Cesto** — embeddable widget SDK, Creator Labs, transactional email system, admin support console, and cost-basis and realised-PnL fixes in the prediction-market swap engine
-- **Protocol integrations** — Phoenix, Jupiter, Drift, Meteora, Kalshi, Orderly, Ondo, Polymarket
-- **AI** — a LangGraph agent backend for natural-language swaps and cross-chain bridges, and ~17 crypto ML models
+- **Cesto** — product engineering across the web app, backend and SDKs
+- **Protocol integrations** — perps, swaps and prediction markets on Solana
+- **AI** — agent backends and crypto ML models
 
 ### 🛠 Tech
 
