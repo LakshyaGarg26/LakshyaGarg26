@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LakshyaGarg26/LakshyaGarg26/main/banner.png" alt="Lakshya Garg — Full-stack engineer · Solana · TypeScript" width="100%">
-</p>
+## Lakshya Garg
 
 I build [Cesto](https://cesto.co) — non-custodial basket investing on Solana. One click buys a whole thesis, straight into your own wallet. Nobody else ever holds the keys.
 
