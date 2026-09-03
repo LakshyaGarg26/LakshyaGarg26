@@ -9,13 +9,13 @@ Full-stack, mostly TypeScript, Next.js, NestJS and on-chain Solana execution. Be
 <!-- CESTO:START -->
 | Basket | 30d | 7d |
 | :--- | ---: | ---: |
-| [Solana Maxi Portfolio](https://app.cesto.co/product/solana-maxi-portfolio) | +0.01% | -3.54% |
+| [Solana Maxi Portfolio](https://app.cesto.co/product/solana-maxi-portfolio) | +38.69% | -3.54% |
 | [Ansem Alpha](https://app.cesto.co/product/ansem-alpha) | +38.54% | -7.35% |
 | [Solana Infrastructure](https://app.cesto.co/product/solana-infrastructure) | +24.61% | -2.99% |
 | [Sovereign Stack](https://app.cesto.co/product/sovereign-stack) | +22.91% | -12.28% |
 | [Solana Alt Szn](https://app.cesto.co/product/solana-alt-szn) | +12.63% | -5.57% |
 
-<sub>Top baskets by 30-day return, pulled live from the Cesto API. Last updated 2020-01-01.</sub>
+<sub>Top baskets by 30-day return, pulled live from the Cesto API. Last updated 2026-09-03.</sub>
 <!-- CESTO:END -->
 
 That table is not a screenshot. A [GitHub Action](.github/workflows/update-readme.yml) rebuilds it every morning straight from Cesto's public API — [the script](scripts/update-readme.mjs) lives in this repo.
